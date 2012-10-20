@@ -1,7 +1,7 @@
 /*
 File:		BMP_Test
 Purpose:	Test program for the Bosch BMP085 Sensor
-Author:		Nicholas Braskey - LTRL
+Author:		Nicholas Braskey - Lion Tech Rocket Labs
 Date:		10/19/2012
 */
 
